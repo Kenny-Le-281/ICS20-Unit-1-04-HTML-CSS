@@ -1,20 +1,19 @@
 /* Created by: Kenny Le
  * Created on: Feb 2022
- * This CSS file defines the style for index.html ICS2O-Unit-1-04-HTML-CSS
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
 */
 
-
 body {
-  background-color:DodgerBlue;
+  background-color: powderblue;
 }
-   
+
 h1 {
-  background-color: rgb(255, 165, 0);
-  color: hsl(147, 50%, 47%);
+  background-color: rgb(255 165 0);
+  color: hsl(147deg 50% 47%);
   padding: 40px;
   text-align: center;
 }
 
-p{
-  "background-color:#f000ff;"
+p {
+  background-color: #f0f;
 }
